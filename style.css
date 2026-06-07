@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    height: 100%;
+    background: #2d2d2d;
+    color:rgba(255, 247, 0, 0.8);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+img{
+    width: 100%;
+    margin-bottom: 5%;
+}
+input{
+width: 100%;
+}
+div{
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    border-right: 1px solid;
+}
+#no{
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    border: none;
+}
+input{
+    margin-bottom: 20%;
+}
+p{
+    font-size: 170%;
+    text-align: center;
+    color:aliceblue
+}
